@@ -1,6 +1,7 @@
 # CEN-catalogus-exploration
 
-Disclaimer: this repository is public, but the code and the data are still being improved and documented. It is recommended to wait until the final versions are available at the end of 2022.
+Disclaimer: We are still actively developing this notebook by improving existing functions and adding new ones. Also the CEN data is constantly being cleaned. This development will go until the end of the SKILLNET project (December 2022). If you use this notebook or the data before that date, please be aware that there may be issues or lack of documentation. It is recommended to use the cleaned data and code from December 2022.
+Please submit any issue to this Github repository or email the repository owner.
 (note updated on August 18, 2022)
 
 --
