@@ -1,8 +1,8 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lilimelgar/CEN-catalogus-exploration/HEAD?labpath=%2Fsrc%2FCEN_SKILLNETslice_overview.ipynb)
+[![Binder: launch this notebook on the web](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lilimelgar/CEN-catalogus-exploration/HEAD?labpath=%2Fsrc%2FCEN_SKILLNETslice_overview.ipynb)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7309978.svg)](https://doi.org/10.5281/zenodo.7309978)
+[![DOI for this Github repository](https://zenodo.org/badge/DOI/10.5281/zenodo.7309978.svg)](https://doi.org/10.5281/zenodo.7309978)
 
-[![](<https://img.shields.io/badge/Dataverse DOI-10.34894/G8XQI0-orange>)](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/G8XQI0)
+[![DOI for the dataset](<https://img.shields.io/badge/Dataverse DOI-10.34894/G8XQI0-orange>)](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/G8XQI0)
 
 
 # Exploring the Catalogus Epistolarum Neerlandicarum (CEN): curated slice by SKILLNET (1200-1820)
