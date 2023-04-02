@@ -7,9 +7,7 @@
 
 # Exploring the Catalogus Epistolarum Neerlandicarum (CEN): curated slice by SKILLNET (1200-1820)
 
-Disclaimer: We are still actively developing this jupyter notebook by improving existing functions and adding new ones. Also the CEN data is constantly being cleaned. This development will go until the end of the SKILLNET project (December 2022). If you use this notebook or the data before that date, please be aware that there may be issues or lack of documentation. It is recommended to use the cleaned data and code from December 2022.
-Please submit any issue to this Github repository or email the repository owner.
-(note updated on November 9, 2022)
+Note: The SKILLNET project finished at the end of 2022. The CEN dataset described below and the jupyter notebook developed to explore the dataset are not being longer cleaned or developed. If you find any issues or have any questions, please email the repository owner.
 
 --
 
